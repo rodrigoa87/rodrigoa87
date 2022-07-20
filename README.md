@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rodrigoa87
-- 👀 I’m interested in learning IT forever
-- 📫 You can reach me here :) I check my emails every day 
+- 👋 Seja bem vindo ao perfil de Rodrigo Agostini.
+- Estudante de TI / aficionado por ciência e tecnologia
+- Portfolio estudantil de projetos e funcionalidades.
 
-<!---
-rodrigoa87/rodrigoa87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
